@@ -1,0 +1,14 @@
+D:\Source VS2019\ATTT_CuoiKy\ATTT_CuoiKy\bin\Debug\ATTT_CuoiKy.exe.config
+D:\Source VS2019\ATTT_CuoiKy\ATTT_CuoiKy\bin\Debug\ATTT_CuoiKy.exe
+D:\Source VS2019\ATTT_CuoiKy\ATTT_CuoiKy\bin\Debug\ATTT_CuoiKy.pdb
+D:\Source VS2019\ATTT_CuoiKy\ATTT_CuoiKy\bin\Debug\Guna.UI2.dll
+D:\Source VS2019\ATTT_CuoiKy\ATTT_CuoiKy\obj\Debug\ATTT_CuoiKy.csproj.AssemblyReference.cache
+D:\Source VS2019\ATTT_CuoiKy\ATTT_CuoiKy\obj\Debug\ATTT_CuoiKy.Properties.Resources.resources
+D:\Source VS2019\ATTT_CuoiKy\ATTT_CuoiKy\obj\Debug\ATTT_CuoiKy.csproj.GenerateResource.cache
+D:\Source VS2019\ATTT_CuoiKy\ATTT_CuoiKy\obj\Debug\ATTT_CuoiKy.csproj.CoreCompileInputs.cache
+D:\Source VS2019\ATTT_CuoiKy\ATTT_CuoiKy\obj\Debug\ATTT_CuoiKy.exe
+D:\Source VS2019\ATTT_CuoiKy\ATTT_CuoiKy\obj\Debug\ATTT_CuoiKy.pdb
+D:\Source VS2019\ATTT_CuoiKy\ATTT_CuoiKy\obj\Debug\ATTT_CuoiKy.DangKy.resources
+D:\Source VS2019\ATTT_CuoiKy\ATTT_CuoiKy\obj\Debug\ATTT_CuoiKy.DangNhap.resources
+D:\Source VS2019\ATTT_CuoiKy\ATTT_CuoiKy\obj\Debug\ATTT_CuoiKy.AdminForm.resources
+D:\Source VS2019\ATTT_CuoiKy\ATTT_CuoiKy\obj\Debug\ATTT_CuoiKy.UserForm.resources
